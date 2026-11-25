@@ -1,0 +1,78 @@
+{
+  "accent": "#FFD54A",
+  "voiceover": "audio/voiceover.mp3",
+  "scenes": [
+    {
+      "tag": "EXPERT",
+      "title": "DR. VINOD RAINA",
+      "caption": "मैं हूँ Dr. Vinod Raina, *Sexologist*",
+      "emoji": "🩺",
+      "colors": [
+        "#065f46",
+        "#022018"
+      ],
+      "duration": 4,
+      "imageQuery": "doctor portrait stethoscope medical clinic",
+      "visual": {
+        "kind": "doctor",
+        "name": "Dr. Vinod Raina",
+        "role": "Sexologist",
+        "cta": "Qualified Medical Advice"
+      }
+    },
+    {
+      "tag": "TAKEAWAY",
+      "title": "HEALTH & CONFIDENCE",
+      "caption": "आपकी sexual health—आपकी *confidence*",
+      "emoji": "✨",
+      "colors": [
+        "#065f46",
+        "#022018"
+      ],
+      "duration": 3.9,
+      "imageQuery": "confident healthy lifestyle wellness",
+      "visual": {
+        "kind": "bullets",
+        "items": [
+          "Prioritize Sexual Health",
+          "Ignore Unrealistic Myths",
+          "Build Real Confidence"
+        ]
+      }
+    },
+    {
+      "tag": "KEY POINT",
+      "title": "WELLBEING",
+      "caption": "और आपकी *wellbeing* का हिस्सा है",
+      "emoji": "💡",
+      "colors": [
+        "#1d3b66",
+        "#061124"
+      ],
+      "duration": 3.4,
+      "imageQuery": "wellbeing medical health",
+      "visual": {
+        "kind": "emoji",
+        "emoji": "💡"
+      }
+    },
+    {
+      "tag": "PERSPECTIVE",
+      "title": "NOT A COMPETITION",
+      "caption": "तो relax कीजिए… यह कोई *competition* नहीं है",
+      "emoji": "🤝",
+      "colors": [
+        "#0d5c63",
+        "#041c24"
+      ],
+      "duration": 4.7,
+      "imageQuery": "confidence self care wellness",
+      "visual": {
+        "kind": "myth",
+        "myth": "Comparing yourself to others",
+        "fact": "Every body has natural variation"
+      }
+    }
+  ],
+  "totalDuration": 16.013063
+}
